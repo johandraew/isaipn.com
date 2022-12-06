@@ -333,10 +333,10 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit DIY Theme
+      value: ISA - IPN Zacatenco Sección Estudiantil
       keyName: property
     - name: 'og:description'
-      value: ISA - IPN Zacatenco Sección Estudiantil
+      value: The preview of the DIY theme
       keyName: property
     - name: 'og:image'
       value: images/diy-preview.png
@@ -345,9 +345,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit DIY Theme
-    - name: 'twitter:description'
       value: ISA - IPN Zacatenco Sección Estudiantil
+    - name: 'twitter:description'
+      value: The preview of the DIY theme
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
