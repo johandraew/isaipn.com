@@ -327,7 +327,7 @@ sections:
     background_color: secondary
 seo:
   title: ISA - IPN Zacatenco Sección Estudiantil
-  description: The preview of the DIY theme
+  description: Esta es una vista previa del SEO
   extra:
     - name: 'og:type'
       value: website
@@ -336,7 +336,7 @@ seo:
       value: ISA - IPN Zacatenco Sección Estudiantil
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: Esta es una vista previa del SEO
       keyName: property
     - name: 'og:image'
       value: images/diy-preview.png
@@ -347,7 +347,7 @@ seo:
     - name: 'twitter:title'
       value: ISA - IPN Zacatenco Sección Estudiantil
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: Esta es una vista previa del SEO
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
